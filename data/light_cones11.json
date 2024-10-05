@@ -1,4 +1,21 @@
 {
+    "1": {
+      "id": "1",
+      "name": "★★★★",
+      "rarity": 4,
+      "path": "Shaman",
+      "desc": "",
+      "icon": "",
+      "preview": "",
+      "portrait": "",
+      "point": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
     "23000": {
       "id": "23000",
       "name": "Chuyến Tàu Đêm Trên Dải Ngân Hà",
