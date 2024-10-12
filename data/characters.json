@@ -661,7 +661,7 @@
   },
   "1213": {
     "id": "1213",
-    "name": "Dan Heng-IL",
+    "name": "Dan Heng IL",
     "tag": "danhengil",
     "rarity": 5,
     "path": "Warrior",
@@ -841,7 +841,7 @@
   },
   "1224": {
     "id": "1224",
-    "name": "March 7th",
+    "name": "March 7th Săn Bắn",
     "tag": "mar7th2",
     "rarity": 4,
     "path": "Rogue",
@@ -1121,7 +1121,7 @@
   },
   "8001": {
     "id": "8001",
-    "name": "Main vật lý",
+    "name": "Main Hủy Diệt",
     "tag": "playerboy",
     "rarity": 5,
     "path": "Warrior",
@@ -1141,7 +1141,7 @@
   },
   "8003": {
     "id": "8003",
-    "name": "Main hỏa",
+    "name": "Main Bảo Hộ",
     "tag": "playerboy2",
     "rarity": 5,
     "path": "Knight",
@@ -1161,7 +1161,7 @@
   },
   "8006": {
     "id": "8006",
-    "name": "Main số ảo",
+    "name": "Main Hòa Hợp",
     "tag": "playergirl3",
     "rarity": 5,
     "path": "Shaman",
