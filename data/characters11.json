@@ -1121,7 +1121,7 @@
   },
   "8001": {
     "id": "8001",
-    "name": "Main vật lý",
+    "name": "Physical Trailblazer",
     "tag": "playerboy",
     "rarity": 5,
     "path": "Warrior",
@@ -1141,7 +1141,7 @@
   },
   "8003": {
     "id": "8003",
-    "name": "Main hỏa",
+    "name": "Fire Trailblazer",
     "tag": "playerboy2",
     "rarity": 5,
     "path": "Knight",
@@ -1161,7 +1161,7 @@
   },
   "8006": {
     "id": "8006",
-    "name": "Main số ảo",
+    "name": "Imaginary Trailblazer",
     "tag": "playergirl3",
     "rarity": 5,
     "path": "Shaman",
