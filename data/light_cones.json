@@ -189,11 +189,11 @@
     "preview": "image/light_cone_preview/23009.png",
     "portrait": "image/light_cone_portrait/23009.png",
     "point": [
+      1,
+      1,
       2,
       2,
-      3,
-      3,
-      4
+      3
     ]
   },
   "23010": {
@@ -207,11 +207,11 @@
     "preview": "image/light_cone_preview/23010.png",
     "portrait": "image/light_cone_portrait/23010.png",
     "point": [
+      1,
+      1,
       2,
       2,
-      3,
-      3,
-      4
+      3
     ]
   },
   "23011": {
@@ -279,11 +279,11 @@
     "preview": "image/light_cone_preview/23014.png",
     "portrait": "image/light_cone_portrait/23014.png",
     "point": [
+      1,
+      1,
       2,
       2,
-      3,
-      3,
-      4
+      3
     ]
   },
   "23015": {
@@ -297,11 +297,11 @@
     "preview": "image/light_cone_preview/23015.png",
     "portrait": "image/light_cone_portrait/23015.png",
     "point": [
+      1,
+      1,
       2,
       2,
-      3,
-      3,
-      4
+      3
     ]
   },
   "23016": {
@@ -387,11 +387,11 @@
     "preview": "image/light_cone_preview/23020.png",
     "portrait": "image/light_cone_portrait/23020.png",
     "point": [
+      3,
+      3,
       4,
       4,
-      5,
-      5,
-      6
+      5
     ]
   },
   "23021": {
@@ -513,10 +513,10 @@
     "preview": "image/light_cone_preview/23027.png",
     "portrait": "image/light_cone_portrait/23027.png",
     "point": [
+      3,
+      3,
       4,
       4,
-      4,
-      5,
       5
     ]
   },
@@ -531,11 +531,11 @@
     "preview": "image/light_cone_preview/23028.png",
     "portrait": "image/light_cone_portrait/23028.png",
     "point": [
+      1,
+      1,
       2,
       2,
-      3,
-      3,
-      4
+      3
     ]
   },
   "23029": {
@@ -585,11 +585,11 @@
     "preview": "image/light_cone_preview/23031.png",
     "portrait": "image/light_cone_portrait/23031.png",
     "point": [
+      3,
+      3,
       4,
       4,
-      5,
-      5,
-      6
+      5
     ]
   },
   "23032": {
@@ -621,11 +621,11 @@
     "preview": "image/light_cone_preview/23033.png",
     "portrait": "image/light_cone_portrait/23033.png",
     "point": [
+      3,
+      3,
       4,
       4,
-      5,
-      5,
-      6
+      5
     ]
   },
   "24000": {
