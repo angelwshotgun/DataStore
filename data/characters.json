@@ -87,10 +87,10 @@
     "path": "Warlock",
     "element": "Thunder",
     "point": [
-      2,
-      4,
+      3,
       5,
-      5,
+      6,
+      6,
       0,
       0,
       0
@@ -750,8 +750,8 @@
     "preview": "image/character_preview/1218.png",
     "portrait": "image/character_portrait/1218.png",
     "point": [
-      2,
-      4,
+      3,
+      5,
       6,
       6,
       0,
@@ -770,10 +770,10 @@
     "preview": "image/character_preview/1220.png",
     "portrait": "image/character_portrait/1220.png",
     "point": [
-      6,
-      10,
-      14,
-      14,
+      8,
+      12,
+      15,
+      15,
       0,
       0,
       0
@@ -810,10 +810,10 @@
     "preview": "image/character_preview/1222.png",
     "portrait": "image/character_portrait/1222.png",
     "point": [
-      4,
-      7,
+      5,
       8,
-      8,
+      9,
+      9,
       0,
       0,
       0
@@ -1010,10 +1010,10 @@
     "preview": "image/character_preview/1308.png",
     "portrait": "image/character_portrait/1308.png",
     "point": [
-      6,
-      8,
-      13,
-      13,
+      7,
+      9,
+      15,
+      15,
       0,
       0,
       0
