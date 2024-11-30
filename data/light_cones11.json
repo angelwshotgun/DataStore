@@ -434,11 +434,11 @@
     "preview": "image/light_cone_preview/23024.png",
     "portrait": "image/light_cone_portrait/23024.png",
     "point": [
+      2,
+      2,
       3,
       3,
-      4,
-      4,
-      5
+      4
     ]
   },
   "23025": {
