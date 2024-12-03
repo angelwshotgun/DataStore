@@ -710,13 +710,13 @@
     "preview": "image/character_preview/1215.png",
     "portrait": "image/character_portrait/1215.png",
     "point": [
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   "1217": {
