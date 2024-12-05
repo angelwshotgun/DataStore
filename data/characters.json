@@ -1079,6 +1079,26 @@
       -3
     ]
   },
+  "1313": {
+    "id": "1313",
+    "name": "Sunday",
+    "tag": "sunday",
+    "rarity": 5,
+    "path": "Shaman",
+    "element": "Imaginary",
+    "icon": "icon/character/1313.png",
+    "preview": "image/character_preview/1313.png",
+    "portrait": "image/character_portrait/1313.png",
+    "point": [
+      5,
+      10,
+      11,
+      11,
+      -3,
+      -3,
+      -3
+    ]
+  },
   "1314": {
     "id": "1314",
     "name": "Jade",
