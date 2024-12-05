@@ -33,7 +33,7 @@
       -1,
       0,
       0,
-      100
+      0
     ],
     "icon": "icon/character/1002.png",
     "preview": "image/character_preview/1002.png",
@@ -1170,10 +1170,10 @@
     "preview": "image/character_preview/1317.png",
     "portrait": "image/character_portrait/1317.png",
     "point": [
-      8,
-      12,
-      13,
-      13,
+      6,
+      10,
+      11,
+      11,
       0,
       0,
       0
