@@ -1110,10 +1110,10 @@
     "preview": "image/character_preview/1313.png",
     "portrait": "image/character_portrait/1313.png",
     "point": [
-      -3,
-      -3,
-      -3,
-      -3,
+      5,
+      10,
+      11,
+      11,
       -3,
       -3,
       -3
