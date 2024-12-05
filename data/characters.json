@@ -7,13 +7,13 @@
     "path": "Knight",
     "element": "Ice",
     "point": [
-      -2,
-      -2,
-      -2,
-      -2,
-      -2,
-      -2,
-      -2
+      -4,
+      -4,
+      -4,
+      -4,
+      -4,
+      -4,
+      -4
     ],
     "icon": "icon/character/1001.png",
     "preview": "image/character_preview/1001.png",
@@ -33,7 +33,7 @@
       -1,
       0,
       0,
-      100
+      0
     ],
     "icon": "icon/character/1002.png",
     "preview": "image/character_preview/1002.png",
@@ -250,10 +250,10 @@
     "preview": "image/character_preview/1104.png",
     "portrait": "image/character_portrait/1104.png",
     "point": [
+      -3,
+      -3,
       -2,
       -2,
-      -1,
-      -1,
       0,
       0,
       0
@@ -1070,10 +1070,10 @@
     "preview": "image/character_preview/1310.png",
     "portrait": "image/character_portrait/1310.png",
     "point": [
-      3,
-      6,
-      11,
-      11,
+      1,
+      4,
+      9,
+      9,
       0,
       0,
       0
@@ -1210,13 +1210,13 @@
     "preview": "image/character_preview/8003.png",
     "portrait": "image/character_portrait/8003.png",
     "point": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
+      -2,
+      -2,
+      -2,
+      -2,
+      -2,
+      -2,
+      -2
     ]
   },
   "8006": {
