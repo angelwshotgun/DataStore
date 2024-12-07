@@ -470,10 +470,10 @@
     "preview": "image/character_preview/1203.png",
     "portrait": "image/character_portrait/1203.png",
     "point": [
-      1,
-      1,
-      1,
-      1,
+      0,
+      0,
+      0,
+      0,
       0,
       0,
       0
