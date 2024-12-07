@@ -107,10 +107,10 @@
     "path": "Warlock",
     "element": "Quantum",
     "point": [
-      4,
-      6,
-      6,
-      6,
+      5,
+      7,
+      7,
+      7,
       6,
       6,
       11
@@ -290,7 +290,7 @@
     "preview": "image/character_preview/1106.png",
     "portrait": "image/character_portrait/1106.png",
     "point": [
-      3,
+      4,
       4,
       4,
       4,
@@ -390,13 +390,13 @@
     "preview": "image/character_preview/1111.png",
     "portrait": "image/character_portrait/1111.png",
     "point": [
-      2,
-      2,
-      2,
-      2,
-      2,
-      2,
-      3
+      1,
+      1,
+      1,
+      1,
+      10,
+      1,
+      2
     ]
   },
   "1112": {
@@ -751,9 +751,9 @@
     "portrait": "image/character_portrait/1218.png",
     "point": [
       4,
-      6,
       7,
-      7,
+      8,
+      8,
       8,
       8,
       14
@@ -1010,10 +1010,10 @@
     "preview": "image/character_preview/1307.png",
     "portrait": "image/character_portrait/1307.png",
     "point": [
-      1,
-      4,
+      2,
       5,
-      5,
+      6,
+      6,
       6,
       6,
       10
@@ -1030,8 +1030,8 @@
     "preview": "image/character_preview/1308.png",
     "portrait": "image/character_portrait/1308.png",
     "point": [
-      7,
-      9,
+      6,
+      8,
       15,
       15,
       16.5,
