@@ -910,10 +910,10 @@
     "preview": "image/character_preview/1302.png",
     "portrait": "image/character_portrait/1302.png",
     "point": [
+      2,
       3,
       4,
-      5,
-      5,
+      4,
       5.5,
       6,
       9
