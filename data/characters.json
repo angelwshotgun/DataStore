@@ -810,7 +810,7 @@
     "preview": "image/character_preview/1222.png",
     "portrait": "image/character_portrait/1222.png",
     "point": [
-      4,
+      3,
       7,
       8,
       8,
@@ -857,6 +857,26 @@
       2,
       2,
       2
+    ]
+  },
+  "1225": {
+    "id": "1225",
+    "name": "Fugue",
+    "tag": "fugue",
+    "rarity": 5,
+    "path": "Warlock",
+    "element": "Fire",
+    "icon": "icon/character/1225.png",
+    "preview": "image/character_preview/1225.png",
+    "portrait": "image/character_portrait/1225.png",
+    "point": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   "1301": {
@@ -1032,8 +1052,8 @@
     "point": [
       7,
       11,
-      13,
-      13,
+      12,
+      12,
       0,
       0,
       0
