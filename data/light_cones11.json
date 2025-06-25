@@ -664,6 +664,150 @@
       4
     ]
   },
+  "23036": {
+    "id": "23036",
+    "name": "Dệt Thời Gian Thành Vàng",
+    "rarity": 5,
+    "character": "aglaea",
+    "path": "Memory",
+    "desc": "\"Sợi này là sự hy sinh của chiến sĩ.\"\n\"Sợi này là sự trưởng thành của anh hùng.\"\n\"Sợi này là sự phồn vinh của thành bang.\"\n...\nNgười thợ may kéo các sợi tơ và gom chúng lại trên đầu ngón tay cô..\n\"Quỹ đạo của một số anh hùng đã bị cắt đứt...\"\nCô kéo một số sợi tơ vàng khác lên, rồi khâu lại.\n\"Vận mệnh của một số anh hùng, vẫn phải mở rộng về phía trước...\"\nKhung cửi được ban cho thần tính đang tự vận hành, những người thợ may đang nhảy múa duyên dáng. Thời gian ngàn năm trôi qua trên khung cửi, từ lâu cô ấy đã quen với việc chờ đợi như vậy...\nVì \"cảm hứng\" đem thời gian dệt thành vàng.",
+    "icon": "icon/light_cone/23036.png",
+    "preview": "image/light_cone_preview/23036.png",
+    "portrait": "image/light_cone_portrait/23036.png",
+    "point": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "23037": {
+    "id": "23037",
+    "name": "Hướng Về Điều Không Thể Truy Hỏi",
+    "rarity": 5,
+    "character": "herta the herta đại",
+    "path": "Mage",
+    "desc": "\"Thư của Hội Trí Thức đã xử lý xong.\"\n\"Vũ Trụ Mô Phỏng đang vận hành bình thường...\"\n\"Tuyển tập tác phẩm đã được tái bản.\"\n\"Suỵt, nhỏ tiếng thôi, đừng làm ồn đến quý cô Herta...\"\n...Trong tòa tháp cao ở ranh giới vũ trụ, các Con Rối đang xử lý các việc linh tinh, đợi cô ấy xuất hiện.\nThời gian trôi qua nhanh, vô số nhân vật như những ngôi sao băng lướt qua bầu trời đêm của lịch sử, tỏa sáng trong chốc lát, cuối cùng trở nên tĩnh lặng.\n\"Quý cô Herta đã rất lâu rồi không lộ diện...\"\n\"Cô ấy vẫn đang suy nghĩ sao...\"\n\"Hừm, tưởng đưa ra vài tiền đề chân lý là kết thúc rồi sao?\"\nCô ấy duỗi lưng, ngẩng đầu lên trong lúc tính toán, hình như lại có ý tưởng...\n\"Không có gì là không thể nghi ngờ cả, tôi phải hỏi đến cùng!\"",
+    "icon": "icon/light_cone/23037.png",
+    "preview": "image/light_cone_preview/23037.png",
+    "portrait": "image/light_cone_portrait/23037.png",
+    "point": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "23038": {
+    "id": "23038",
+    "name": "Nếu Thời Gian Là Một Đóa Hoa",
+    "rarity": 5,
+    "character": "tribbie",
+    "path": "Shaman",
+    "desc": "\"Mẹ ơi, con muốn nghe thêm một câu chuyện nữa!\"\n\"Con gái ngoan của mẹ, hôm nay mẹ sẽ kể câu chuyện về thời gian nhé?\"\n\"Thời gian... là gì vậy mẹ?\"\n\"Thời gian, giống như một đóa hoa.\"\n\"Là loài hoa bồ công anh nở rộ trên cánh đồng sao?\"\n\"Đúng vậy, giống như hoa bồ công anh vậy, theo thời gian rồi sẽ trưởng thành, sẽ nở rộ, sẽ kết trái, chúng ta gọi cánh hoa của nó là... 'thời khắc'.\"\n\"Sau đó thì sao?\"\n\"Sau đó, nó sẽ khô héo thành hàng ngàn cánh hoa, để lại những hạt giống bay đi khắp nơi...\"\n\"Mẹ ơi, đó có phải gọi là 'tương lai' không!\"\n\"Đoán xem sau này nó sẽ trở thành gì nào?\"\n\"Nó sẽ biến thành rất nhiều rất nhiều hoa, biến thành một biển hoa rực rỡ?\"\nNgười mẹ chưa kịp trả lời, ánh nắng bên ngoài cửa sổ chiếu xuống gương mặt cô bé, bóng dáng dịu dàng đó một lần nữa biến mất trong giấc mơ.\nCô mở mắt ra...\n\"Nếu thời gian là một đóa hoa...\" Cô ấy lẩm bẩm.\n\"Nó nhất định sẽ biến thành một biển hoa.\" Cô gái trầm tĩnh nói.\n\"Đương nhiên rồi!\" Cô gái tinh nghịch đó đã hoàn thành kiệt tác và cất tiếng hò reo.",
+    "icon": "icon/light_cone/23038.png",
+    "preview": "image/light_cone_preview/23038.png",
+    "portrait": "image/light_cone_portrait/23038.png",
+    "point": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "23039": {
+    "id": "23039",
+    "name": "Huyết Hỏa, Hãy Thiêu Đốt Con Đường Phía Trước",
+    "rarity": 5,
+    "character": "mydei",
+    "path": "Warrior",
+    "desc": "Giọt sương lạnh lẽo ngưng kết trên lưỡi đao, trượt xuống thành những vết sẹo màu máu.\nVùng đất hoang nhuốm mùi gỉ sét, tàn dư của ngọn lửa bùng lên trong trận chiến khốc liệt vẫn nhảy múa trên đống tro tàn.\n\"Mydeimos, vừa rồi đúng là một trận chiến thần thánh!\"\nChiến sĩ ngực trần lau vũ khí, hét lên một cách đầy phấn khích.\n\"Mydei, sau này em cũng muốn giống anh, trăm trận trăm thắng!\"\nĐứa trẻ nhìn anh một cách sùng bái, trong tay vẫn nắm chặt thanh kiếm gãy.\n\"Vương tử, ngày chúng ta quay về Kremnos đã cận kề.\"\nÔng lão đã trải qua bao thăng trầm của cuộc đời nở nụ cười, nâng ly rượu lên kính anh.\nAnh im lặng gật đầu, rồi bước đến rìa doanh trại.\nCơn đau của việc tái sinh vẫn còn chạy dọc trên da, ngày mai, anh sẽ dẫn dắt Đội Quân Đơn Độc Kremnos xuất phát một lần nữa, đi đến những vùng đất xa lạ.\nAnh không biết cuộc sống lưu lạc này sẽ kết thúc ở đâu, điều duy nhất anh có thể chắc chắn là... Anh sẽ gánh vác chức trách của một vị vua, cho đến khi ngọn lửa máu bị thiêu rụi.\nBóng đêm dần buông xuống, anh một mình uống rượu máu, nhà thơ lang thang đi ngang qua kéo dây đàn, giọng hát lạc điệu vang vọng trong không trung...\n\"Quê nhà là vùng đất của những giấc mơ, không phải nơi có thể đến.\"",
+    "icon": "icon/light_cone/23039.png",
+    "preview": "image/light_cone_preview/23039.png",
+    "portrait": "image/light_cone_portrait/23039.png",
+    "point": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "23040": {
+    "id": "23040",
+    "name": "Để Lời Từ Biệt Đẹp Đẽ Hơn",
+    "rarity": 5,
+    "character": "castorice gạo",
+    "path": "Memory",
+    "desc": "Lại một nghi thức chia ly nữa.\nCô gái bước đi trên ánh trăng vỡ vụn, đan vòng hoa tiễn biệt bên bờ sông.\nKhúc bi ca cổ xưa đông cứng trong không khí lạnh lẽo, dòng sông tĩnh lặng chảy về miền hoa xa xôi.\nQuyển sách nhuốm máu, thanh kiếm gỉ sét, chiếc khăn tay thêu vần thơ... cô tiếp nhận di vật và những câu chuyện họ để lại.\n\"Đôi mắt ta như thấu kính, mãi hoài niệm về bầu trời sao.\"\nĐó là bia mộ dành cho vị học giả yểu mệnh.\n\"Đối với đời người hay cái chết, kỵ sĩ chỉ nhìn bằng một ánh mắt lạnh nhạt.\"\nĐó là châm ngôn của chiến binh vô danh.\n\"Sinh mệnh chỉ là cái chết lấp lánh ánh sáng.\"\nĐó là áng thơ cuối cùng của thi nhân theo đuổi sự vĩnh hằng, được viết nên bằng chính mạng sống của mình.\n...\n\"Mỗi đóa hoa, đều từng kiêu hãnh khoe sắc...\"\nCùng với tiếng nức nở của dòng sông, cô dâng lên người đã khuất những vần thơ, vòng hoa và sự tưởng niệm...\n\"Nếu héo úa là điều không thể tránh khỏi, ít nhất hãy để lời từ biệt của chúng ta... đẹp đẽ hơn một chút.\"",
+    "icon": "icon/light_cone/23040.png",
+    "preview": "image/light_cone_preview/23040.png",
+    "portrait": "image/light_cone_portrait/23040.png",
+    "point": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "23041": {
+    "id": "23041",
+    "name": "Sinh Mệnh Đáng Bị Thiêu Rụi",
+    "rarity": 5,
+    "character": "anaxa",
+    "path": "Mage",
+    "desc": "Trong thí nghiệm u tối đó, luôn có những ảo ảnh ùa về, níu kéo bước chân anh.\nTiếng thầm thì đầy mê hoặc vang lên, bảo rằng hãy từ bỏ đề tài nguy hiểm đó, sao phải lấy sinh mạng của mình ra đánh cược chứ.\nTiếng đe dọa lạnh lùng cảnh báo, kẻ bước đi trên ranh giới sinh tử cuối cùng cũng sẽ tự thiêu rụi mình.\nVà lời cáo buộc đầy phẫn nộ, gào thét đòi đẩy kẻ báng bổ thần linh xuống pháp trường tàn khốc.\n\"Vở diễn của cuộc đời đã đến hồi khép lại.\"\nAnh nhắm mắt, nắm chặt Ngọn Lửa của thần linh, mặc cho nỗi đau nhấn chìm linh hồn cận kề cái chết.\nĐôi mắt kiên định, trái tim đập rộn ràng, một linh hồn hoàn chỉnh... Anh đích thân đưa bản thân vào sự dung luyện thuần khiết và mãnh liệt ấy...\nMuôn vàn âm thanh sôi sục, rồi trở nên tĩnh lặng.\nTrong màn đêm vô tận, chân lý rực rỡ đã thành hình trong tay anh.",
+    "icon": "icon/light_cone/23041.png",
+    "preview": "image/light_cone_preview/23041.png",
+    "portrait": "image/light_cone_portrait/23041.png",
+    "point": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "23042": {
+    "id": "23042",
+    "name": "Mong Cầu Vồng Mãi Ở Trên Bầu Trời",
+    "rarity": 5,
+    "character": "hyacine",
+    "path": "Memory",
+    "desc": "\"Cảm xúc giống như những đám mây, còn chúng ta là bầu trời chứa đựng nó. Nếu bầu trời giăng đầy mây đen, tâm trạng sẽ trở nên u ám và mơ hồ.\"\nNgười thầy thuốc quan tâm lắng nghe nỗi đau của người ghé đến, an ủi bằng lời nói nhẹ mang tính trị liệu.\n\"Hãy nhắm mắt lại, từ từ hít thở... Tưởng tượng bản thân đang ở một nơi ấm áp và dịu dàng...\"\nLời nói như có ma lực, ánh sáng rực rỡ bảy màu dưới đôi cánh của Thú Cánh lan tỏa.\n\"Cơn gió nhẹ thổi qua cánh đồng, mang theo hương thơm trong trẻo của hoa dại. Những đám mây ẩm ướt lững lờ bay qua, mang theo ánh mặt trời...\"\nVị khách dần chìm vào giấc mơ đẹp, chỉ có tiếng hít thở đều đặn và nhẹ nhàng xem như lời hồi đáp.\nSau khi khám xong cho bệnh nhân cuối cùng, người thầy thuốc nhẹ nhàng khóa cửa phòng bệnh.\nĐêm đen vô tận vẫn đang cuộn trào ở nơi xa xăm, những đống phế tích giống như vết thương trên mặt đất.\n\"Kiếp sau, mong bình minh sẽ chiếu sáng cho mọi người...\"\nTrước khi khởi hành, cô ấy đã cầu nguyện với bầu trời...\n\"Nguyện cho ánh cầu vồng mãi ở trên bầu trời.\"",
+    "icon": "icon/light_cone/23042.png",
+    "preview": "image/light_cone_preview/23042.png",
+    "portrait": "image/light_cone_portrait/23042.png",
+    "point": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "23043": {
+    "id": "23043",
+    "name": "Lời Nói Dối Bay Trong Gió",
+    "rarity": 5,
+    "character": "cipher",
+    "path": "Warlock",
+    "desc": "Thiếu nữ tai mèo vươn người ra khỏi nóc nhà, lướt vào màn đêm.\nTrong kho báu ngàn năm yên tĩnh, thiếu nữ lướt đi nhẹ nhàng, ôm bảo vật vào lòng, rồi biến mất không một tiếng động.\n\"Vận mệnh ngu xuẩn, không đuổi kịp ta đâu!\"\nNgọn gió trong phế tích mang theo mùi hương hoang dã, thổi lay chiếc mũ của thiếu nữ.\nGối đầu lên tảng đá lạnh lẽo, cô nuốt xuống miếng lương khô thô cứng, tung hứng đồng vàng trên đầu ngón tay.\nTiếng vọng khe khẽ từ phương xa lọt vào đôi tai cô, trong Thánh Thành được ánh bình minh chiếu rọi, đám đông nhộn nhịp vẫn đang tận hưởng bữa tiệc và sự ấm áp.\n\"Còn bao lâu nữa... một năm, hay là một vạn năm?\"\nCô duỗi chiếc lưng lười nhác, vứt bỏ những suy nghĩ bất an.\n\"Ha, Cifera sẽ luôn cười đến cùng!\"\nSấm chớp màu vàng lướt qua bầu trời, lời tuyên ngôn của người thiếu nữ vẫn bay trong gió\n- Như hàng nghìn năm trước.",
+    "icon": "icon/light_cone/23043.png",
+    "preview": "image/light_cone_preview/23043.png",
+    "portrait": "image/light_cone_portrait/23043.png",
+    "point": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
   "24000": {
     "id": "24000",
     "name": "Sự Sụp Đổ Của Aeon",
@@ -741,6 +885,23 @@
     "icon": "icon/light_cone/24004.png",
     "preview": "image/light_cone_preview/24004.png",
     "portrait": "image/light_cone_portrait/24004.png",
+    "point": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "24005": {
+    "id": "24005",
+    "name": "Ký Ức Không Bao Giờ Hạ Màn",
+    "rarity": 5,
+    "path": "Memory",
+    "desc": "Dù là phồn hoa, hoang vu, ngắn ngủi, hay dài đằng đẵng... mỗi một hành tinh, mỗi một khoảnh khắc đều đang xảy ra vô số sự kiện.\nLịch sử ngưng kết đó vừa chạm vào liền tan chảy trong tay, hóa thành nước mắt chảy xuống từ đôi mắt của thế giới...\nCó người nói, đó là giọt nước mắt nặng nề đến nhường nào, thời gian ngưng tụ đủ để khiến sự vĩnh hằng phai màu.\nCó người nói, đó là một câu chuyện đẹp đẽ ra sao, nỗi buồn trong trẻo đến thế, niềm vui thanh thản đến thế, không hề xen lẫn một chút giả dối nào.\nVũ trụ lặng lẽ trôi, Ngài không nói gì, chỉ âm thầm ngắm nhìn...\nNgắm nhìn và chờ đợi chúng trở thành \"Ký Ức\".",
+    "icon": "icon/light_cone/24005.png",
+    "preview": "image/light_cone_preview/24005.png",
+    "portrait": "image/light_cone_portrait/24005.png",
     "point": [
       0,
       0,
