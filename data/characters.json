@@ -1179,6 +1179,166 @@
       0
     ]
   },
+  "1401": {
+    "id": "1401",
+    "name": "The Herta",
+    "tag": "theherta",
+    "rarity": 5,
+    "path": "Mage",
+    "element": "Ice",
+    "icon": "icon/character/1401.png",
+    "preview": "image/character_preview/1401.png",
+    "portrait": "image/character_portrait/1401.png",
+    "point": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "1402": {
+    "id": "1402",
+    "name": "Aglaea",
+    "tag": "aglaea",
+    "rarity": 5,
+    "path": "Memory",
+    "element": "Thunder",
+    "icon": "icon/character/1402.png",
+    "preview": "image/character_preview/1402.png",
+    "portrait": "image/character_portrait/1402.png",
+    "point": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "1403": {
+    "id": "1403",
+    "name": "Tribbie",
+    "tag": "tribbie",
+    "rarity": 5,
+    "path": "Shaman",
+    "element": "Quantum",
+    "icon": "icon/character/1403.png",
+    "preview": "image/character_preview/1403.png",
+    "portrait": "image/character_portrait/1403.png",
+    "point": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "1404": {
+    "id": "1404",
+    "name": "Mydei",
+    "tag": "mydei",
+    "rarity": 5,
+    "path": "Warrior",
+    "element": "Imaginary",
+    "icon": "icon/character/1404.png",
+    "preview": "image/character_preview/1404.png",
+    "portrait": "image/character_portrait/1404.png",
+    "point": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "1405": {
+    "id": "1405",
+    "name": "Anaxa",
+    "tag": "anaxa",
+    "rarity": 5,
+    "path": "Mage",
+    "element": "Wind",
+    "icon": "icon/character/1405.png",
+    "preview": "image/character_preview/1405.png",
+    "portrait": "image/character_portrait/1405.png",
+    "point": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "1406": {
+    "id": "1406",
+    "name": "Cipher",
+    "tag": "cipher",
+    "rarity": 5,
+    "path": "Warlock",
+    "element": "Quantum",
+    "icon": "icon/character/1406.png",
+    "preview": "image/character_preview/1406.png",
+    "portrait": "image/character_portrait/1406.png",
+    "point": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "1407": {
+    "id": "1407",
+    "name": "Castorice",
+    "tag": "castorice",
+    "rarity": 5,
+    "path": "Memory",
+    "element": "Quantum",
+    "icon": "icon/character/1407.png",
+    "preview": "image/character_preview/1407.png",
+    "portrait": "image/character_portrait/1407.png",
+    "point": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "1409": {
+    "id": "1409",
+    "name": "Hyacine",
+    "tag": "hyacine",
+    "rarity": 5,
+    "path": "Memory",
+    "element": "Wind",
+    "icon": "icon/character/1409.png",
+    "preview": "image/character_preview/1409.png",
+    "portrait": "image/character_portrait/1409.png",
+    "point": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
   "8001": {
     "id": "8001",
     "name": "Main vật lý",
@@ -1237,6 +1397,26 @@
       4,
       4,
       4
+    ]
+  },
+  "8008": {
+    "id": "8008",
+    "name": "Main ký ức",
+    "tag": "playergirl4",
+    "rarity": 5,
+    "path": "Memory",
+    "element": "Ice",
+    "icon": "icon/character/8008.png",
+    "preview": "image/character_preview/8008.png",
+    "portrait": "image/character_portrait/8008.png",
+    "point": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   }
 }
