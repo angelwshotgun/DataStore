@@ -225,11 +225,11 @@
     "preview": "image/light_cone_preview/23011.png",
     "portrait": "image/light_cone_portrait/23011.png",
     "point": [
-      1,
-      1,
-      1,
-      2,
-      2
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   "23012": {
@@ -441,11 +441,11 @@
     "preview": "image/light_cone_preview/23023.png",
     "portrait": "image/light_cone_portrait/23023.png",
     "point": [
+      1,
+      1,
       2,
       2,
-      3,
-      3,
-      4
+      3
     ]
   },
   "23024": {
