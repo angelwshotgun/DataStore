@@ -84,8 +84,8 @@
       0,
       0,
       1,
-      1,
-      1
+      1.5,
+      2
     ]
   },
   "23004": {
@@ -369,11 +369,11 @@
     "preview": "image/light_cone_preview/23019.png",
     "portrait": "image/light_cone_portrait/23019.png",
     "point": [
+      1,
+      1,
       2,
       2,
-      3,
-      3,
-      4
+      3
     ]
   },
   "23020": {
@@ -405,11 +405,11 @@
     "preview": "image/light_cone_preview/23021.png",
     "portrait": "image/light_cone_portrait/23021.png",
     "point": [
+      1,
+      1,
       2,
       2,
-      3,
-      3,
-      4
+      3
     ]
   },
   "23022": {
@@ -495,9 +495,9 @@
     "preview": "image/light_cone_preview/23026.png",
     "portrait": "image/light_cone_portrait/23026.png",
     "point": [
+      2,
+      2,
       3,
-      3,
-      4,
       4,
       5
     ]
@@ -711,11 +711,11 @@
     "preview": "image/light_cone_preview/23038.png",
     "portrait": "image/light_cone_portrait/23038.png",
     "point": [
-      0,
-      0,
-      0,
-      0,
-      0
+      2,
+      2,
+      3,
+      4,
+      5
     ]
   },
   "23039": {
