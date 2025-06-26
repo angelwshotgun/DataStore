@@ -801,11 +801,11 @@
     "preview": "image/light_cone_preview/23043.png",
     "portrait": "image/light_cone_portrait/23043.png",
     "point": [
+      3,
+      3,
       4,
       4,
-      5,
-      5,
-      6
+      5
     ]
   },
   "24000": {
