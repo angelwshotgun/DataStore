@@ -903,11 +903,11 @@
     "preview": "image/light_cone_preview/24005.png",
     "portrait": "image/light_cone_portrait/24005.png",
     "point": [
-      0,
-      0,
-      0,
-      0,
-      1
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
     ]
   }
 }
