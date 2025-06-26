@@ -270,13 +270,13 @@
     "preview": "image/character_preview/1105.png",
     "portrait": "image/character_portrait/1105.png",
     "point": [
-      -2,
-      -2,
-      -2,
-      -2,
-      -2,
-      -2,
-      -2
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   },
   "1106": {
@@ -730,10 +730,10 @@
     "preview": "image/character_preview/1217.png",
     "portrait": "image/character_portrait/1217.png",
     "point": [
-      3,
-      5,
-      5,
-      5,
+      1,
+      1,
+      2,
+      2,
       7,
       7,
       11
@@ -810,10 +810,10 @@
     "preview": "image/character_preview/1222.png",
     "portrait": "image/character_portrait/1222.png",
     "point": [
+      1,
+      2,
       3,
-      6,
-      7,
-      7,
+      3,
       0,
       0,
       0
@@ -890,13 +890,13 @@
     "preview": "image/character_preview/1301.png",
     "portrait": "image/character_portrait/1301.png",
     "point": [
-      0,
-      2,
-      2,
-      2,
-      2,
-      2,
-      2
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
     ]
   },
   "1302": {
