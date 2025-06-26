@@ -7,13 +7,13 @@
     "path": "Knight",
     "element": "Ice",
     "point": [
-      -2,
-      -2,
-      -2,
-      -2,
-      -2,
-      -2,
-      -2
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
     ],
     "icon": "icon/character/1001.png",
     "preview": "image/character_preview/1001.png",
