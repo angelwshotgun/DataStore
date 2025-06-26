@@ -147,13 +147,13 @@
     "path": "Shaman",
     "element": "Fire",
     "point": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
+      -2,
+      -2,
+      -2,
+      -2,
+      -2,
+      -2,
+      -2
     ],
     "icon": "icon/character/1009.png",
     "preview": "image/character_preview/1009.png",
@@ -931,9 +931,9 @@
     "portrait": "image/character_portrait/1303.png",
     "point": [
       8,
-      11,
-      13,
-      13,
+      10,
+      10,
+      10,
       0,
       0,
       0
@@ -991,9 +991,9 @@
     "portrait": "image/character_portrait/1306.png",
     "point": [
       8,
-      10,
-      14,
-      14,
+      9,
+      12,
+      12,
       0,
       0,
       0
@@ -1052,8 +1052,8 @@
     "point": [
       9,
       12,
-      15,
-      15,
+      14,
+      14,
       0,
       0,
       0
@@ -1112,8 +1112,8 @@
     "point": [
       9,
       11,
-      14,
-      14,
+      13,
+      13,
       0,
       0,
       0
@@ -1230,10 +1230,10 @@
     "preview": "image/character_preview/1403.png",
     "portrait": "image/character_portrait/1403.png",
     "point": [
-      10,
-      14,
-      17,
-      17,
+      9,
+      13,
+      15,
+      15,
       0,
       0,
       0
@@ -1390,13 +1390,13 @@
     "preview": "image/character_preview/8006.png",
     "portrait": "image/character_portrait/8006.png",
     "point": [
-      6,
-      6,
-      6,
-      6,
-      6,
-      6,
-      6
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
     ]
   },
   "8008": {
