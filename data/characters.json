@@ -7,13 +7,13 @@
     "path": "Knight",
     "element": "Ice",
     "point": [
-      -4,
-      -4,
-      -4,
-      -4,
-      -4,
-      -4,
-      -4
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
     ],
     "icon": "icon/character/1001.png",
     "preview": "image/character_preview/1001.png",
@@ -47,13 +47,13 @@
     "path": "Mage",
     "element": "Fire",
     "point": [
-      3,
-      4,
-      4,
-      4,
-      4,
-      4,
-      4
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
     ],
     "icon": "icon/character/1003.png",
     "preview": "image/character_preview/1003.png",
@@ -87,10 +87,10 @@
     "path": "Warlock",
     "element": "Thunder",
     "point": [
-      3,
+      2,
+      4,
       5,
-      6,
-      6,
+      5,
       0,
       0,
       0
