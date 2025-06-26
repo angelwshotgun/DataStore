@@ -27,13 +27,13 @@
     "path": "Rogue",
     "element": "Wind",
     "point": [
-      -3,
-      -3,
-      -3,
-      -3,
-      -3,
-      -3,
-      -3
+      -2,
+      -2,
+      -2,
+      -2,
+      -2,
+      -2,
+      -2
     ],
     "icon": "icon/character/1002.png",
     "preview": "image/character_preview/1002.png",
@@ -211,7 +211,7 @@
     "portrait": "image/character_portrait/1102.png",
     "point": [
       0,
-      1,
+      0.5,
       1,
       1,
       0,
@@ -412,8 +412,8 @@
     "point": [
       1,
       2,
-      4,
-      4,
+      3,
+      3,
       0,
       0,
       0
@@ -530,13 +530,13 @@
     "preview": "image/character_preview/1206.png",
     "portrait": "image/character_portrait/1206.png",
     "point": [
-      -4,
-      -4,
-      -4,
-      -4,
-      -4,
-      -4,
-      -4
+      -2,
+      -2,
+      -2,
+      -2,
+      -2,
+      -2,
+      -2
     ]
   },
   "1207": {
@@ -770,10 +770,10 @@
     "preview": "image/character_preview/1220.png",
     "portrait": "image/character_portrait/1220.png",
     "point": [
-      2,
-      4,
-      6,
-      6,
+      3,
+      5,
+      7,
+      7,
       0,
       0,
       0
@@ -830,13 +830,13 @@
     "preview": "image/character_preview/1223.png",
     "portrait": "image/character_portrait/1223.png",
     "point": [
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
     ]
   },
   "1224": {
@@ -1150,10 +1150,10 @@
     "preview": "image/character_preview/1315.png",
     "portrait": "image/character_portrait/1315.png",
     "point": [
-      1,
+      0,
+      2,
       3,
-      4,
-      4,
+      3,
       0,
       0,
       0
