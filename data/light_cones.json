@@ -171,8 +171,8 @@
     "preview": "image/light_cone_preview/23008.png",
     "portrait": "image/light_cone_portrait/23008.png",
     "point": [
-      1,
-      1,
+      0.5,
+      0.5,
       1,
       1,
       1
