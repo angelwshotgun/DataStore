@@ -147,13 +147,13 @@
     "path": "Shaman",
     "element": "Fire",
     "point": [
-      -2,
-      -2,
-      -2,
-      -2,
-      -2,
-      -2,
-      -1
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
     ],
     "icon": "icon/character/1009.png",
     "preview": "image/character_preview/1009.png",
