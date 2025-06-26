@@ -127,13 +127,13 @@
     "path": "Warrior",
     "element": "Thunder",
     "point": [
-      -4,
-      -4,
-      -4,
-      -4,
-      -4,
-      -4,
-      -4
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
     ],
     "icon": "icon/character/1008.png",
     "preview": "image/character_preview/1008.png",
