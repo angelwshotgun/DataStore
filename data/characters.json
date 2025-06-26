@@ -492,8 +492,8 @@
     "point": [
       0,
       1,
-      2,
-      2,
+      1,
+      1,
       0,
       0,
       0
@@ -1131,7 +1131,7 @@
     "portrait": "image/character_portrait/1314.png",
     "point": [
       1,
-      2,
+      3,
       4,
       4,
       0,
