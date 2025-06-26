@@ -410,10 +410,10 @@
     "preview": "image/character_preview/1112.png",
     "portrait": "image/character_portrait/1112.png",
     "point": [
-      0,
       1,
       2,
-      2,
+      4,
+      4,
       0,
       0,
       0
@@ -834,9 +834,9 @@
       1,
       1,
       1,
-      2,
-      2,
-      2
+      1,
+      1,
+      1
     ]
   },
   "1224": {
@@ -850,13 +850,13 @@
     "preview": "image/character_preview/1224.png",
     "portrait": "image/character_portrait/1224.png",
     "point": [
-      2,
-      2,
-      2,
-      2,
-      2,
-      2,
-      2
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
     ]
   },
   "1225": {
