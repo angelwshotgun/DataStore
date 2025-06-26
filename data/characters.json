@@ -47,13 +47,13 @@
     "path": "Mage",
     "element": "Fire",
     "point": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
+      -4,
+      -4,
+      -4,
+      -4,
+      -4,
+      -4,
+      -2
     ],
     "icon": "icon/character/1003.png",
     "preview": "image/character_preview/1003.png",
@@ -430,13 +430,13 @@
     "preview": "image/character_preview/1201.png",
     "portrait": "image/character_portrait/1201.png",
     "point": [
-      -3,
-      -3,
-      -3,
-      -3,
-      -3,
-      -3,
-      -2
+      -4,
+      -4,
+      -4,
+      -4,
+      -4,
+      -4,
+      -4
     ]
   },
   "1202": {
@@ -910,10 +910,10 @@
     "preview": "image/character_preview/1302.png",
     "portrait": "image/character_portrait/1302.png",
     "point": [
+      0,
       1,
       2,
-      3,
-      3,
+      2,
       0,
       0,
       0
@@ -1170,8 +1170,8 @@
     "preview": "image/character_preview/1317.png",
     "portrait": "image/character_portrait/1317.png",
     "point": [
-      1,
-      3,
+      0,
+      2,
       4,
       4,
       0,
@@ -1192,8 +1192,8 @@
     "point": [
       3,
       5,
-      7,
-      7,
+      9,
+      9,
       0,
       0,
       0
@@ -1270,10 +1270,10 @@
     "preview": "image/character_preview/1405.png",
     "portrait": "image/character_portrait/1405.png",
     "point": [
-      3,
-      5,
+      4,
       6,
-      6,
+      8,
+      8,
       0,
       0,
       0
